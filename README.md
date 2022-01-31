@@ -1,6 +1,8 @@
 # Olá, tudo bem? Eu sou o Lucas Rodrigues!
-- 📫 Atualmente trabalho com desenvolvimento Backend com Java.
-- 🌱 Estudando HTML/CSS/TypeScript
+- 👨‍🎓 Ciência da Computação;
+- 💼 Trabalho atualmente na [Compass.uol](https://compass.uol/), como desenvolvedor Backend Java;
+- 🌱 Estudando HTML/CSS/TypeScript;
+- ❌ Tenho objetivo de me tornar um desenvolvedor Full-Stack.
 
 <div align="center">
   <a href="https://github.com/RodriguesLucas">

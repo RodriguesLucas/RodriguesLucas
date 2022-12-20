@@ -1,6 +1,6 @@
 # Olá, tudo bem? Eu sou o Lucas Rodrigues!
 - 👨‍🎓 Cursando Ciência da Computação;
-- 💼 Trabalho atualmente na [Compass.uol](https://compass.uol/), como desenvolvedor Backend Java;
+- 💼 Trabalho atualmente na [Ernst & Young](https://www.ey.com/pt_br), como desenvolvedor Backend Java;
 - 🌱 Estudando atualmente Java/SpringBoot;
 - ❌ Tenho objetivo de me tornar um desenvolvedor Full-Stack.
 

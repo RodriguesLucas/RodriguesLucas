@@ -1,7 +1,7 @@
 # Olá, tudo bem? Eu sou o Lucas Rodrigues!
 - 👨‍🎓 Cursando Ciência da Computação;
 - 💼 Trabalho atualmente na [Ernst & Young](https://www.ey.com/pt_br), como desenvolvedor Backend Java;
-- 🌱 Estudando atualmente Java/SpringBoot;
+- 🌱 Estudando atualmente Sap Commerce Cloud(Hybris) e Java/SpringBoot;
 - ❌ Tenho objetivo de me tornar um desenvolvedor Full-Stack.
 
 <div align="center">

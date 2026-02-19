@@ -3,7 +3,6 @@
 - 👨‍🎓 Mestrando em Sistemas e Processos Industriais;
 - 💼 Trabalho atualmente na [Ernst & Young](https://www.ey.com/pt_br), como desenvolvedor Backend Java;
 - 🌱 Estudando atualmente Sap Commerce Cloud(Hybris) e Java/SpringBoot;
-- ❌ Tenho objetivo de me tornar um desenvolvedor Full-Stack.
 
 <div align="center">
   <a href="https://github.com/RodriguesLucas">
